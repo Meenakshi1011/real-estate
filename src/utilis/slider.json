@@ -1,0 +1,38 @@
+[
+  {
+      "name": "Shivaji Heights",
+      "price": "52,500",
+      "detail": "Located in the heart of Andheri East, offering luxury living. Close to business hubs and metro stations.",
+      "image": "./r1.png"
+  },
+  {
+      "name": "Ganga Residency",
+      "price": "75,200",
+      "detail": "Premium apartments on Baner Road with modern amenities. Surrounded by top schools and IT parks.",
+      "image": "./r2.png"
+  },
+  {
+      "name": "Lotus Greens",
+      "price": "40,750",
+      "detail": "Spacious homes in Sector 137, Noida with lush greenery. Well-connected to expressways and metro lines.",
+      "image": "./r3.png"
+  },
+  {
+      "name": "Royal Orchid Villa",
+      "price": "85,000",
+      "detail": "Exclusive villas in Whitefield with premium facilities. Ideal for families looking for a serene lifestyle.",
+      "image": "./r1.png"
+  },
+  {
+      "name": "Emerald Residency",
+      "price": "60,300",
+      "detail": "Luxury apartments in Alwarpet, Chennai with top-class security. Near shopping malls and entertainment hubs.",
+      "image": "./r2.png"
+  },
+  {
+      "name": "Sapphire Heights",
+      "price": "48,900",
+      "detail": "Modern apartments in Rajarhat, Kolkata with green spaces. Offers easy access to the airport and IT sector.",
+      "image": "./r3.png"
+  }
+]
